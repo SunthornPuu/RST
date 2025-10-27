@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "img": "https://images.furnituredealer.net/img/products/fairfield/color/fairfield%20dining%20chairs_5403-04-b.jpg",
+      "name": "Modern Wood Chair",
+      "seller": "Furniture Co.",
+      "xI": 18,
+      "yI": 34,
+      "zI": 20,
+      "xCm": 45.7,
+      "yCm": 86.4,
+      "zCm": 50.8,
+      "price": "129.99"
+    },
+    {
+      "img": "https://i5.walmartimages.com/asr/9a402fe0-5dd1-4918-a8fc-8675a1f0b10e.53ba71942ece5a4cb3cc066f4222c0e5.jpeg",
+      "name": "Standing Desk Pro",
+      "seller": "ErgoTech",
+      "xI": 48,
+      "yI": 30,
+      "zI": 28,
+      "xCm": 121.9,
+      "yCm": 76.2,
+      "zCm": 71.1,
+      "price": "349.00"
+    },
+    {
+      "img": "https://tse1.mm.bing.net/th/id/OIP.VENIiStGg_zLhCXEPLPggwHaHa?cb=12ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "name": "LED Floor Lamp",
+      "seller": "BrightLite",
+      "xI": 10,
+      "yI": 60,
+      "zI": 10,
+      "xCm": 25.4,
+      "yCm": 152.4,
+      "zCm": 25.4,
+      "price": "59.95"
+    },
+    {
+      "img": "https://th.bing.com/th/id/R.e4ad3862df0ede5403440fe8918ef02a?rik=bkNNgO5FJFq6mQ&riu=http%3a%2f%2fwww.myaustinelite.com%2fwp-content%2fuploads%2f2015%2f01%2fUsing-natural-elements-like-flowers-to-decorate-bookshelf-1024x1024.jpg%3fx34469&ehk=X0YpYidVxzMEIF2hCI6rF5b0b%2f58okp0KnMVwr0W3z0%3d&risl=&pid=ImgRaw&r=0",
+      "name": "5-Tier Bookshelf",
+      "seller": "Storage Solutions",
+      "xI": 24,
+      "yI": 72,
+      "zI": 12,
+      "xCm": 61,
+      "yCm": 182.9,
+      "zCm": 30.5,
+      "price": "179.50"
+    },
+    {
+      "img": "https://tse3.mm.bing.net/th/id/OIP.J1dKHD1zp7oLjEyzCY8VAAHaFh?cb=12ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "name": "3-Seater Sofa",
+      "seller": "HomeComfort",
+      "xI": 84,
+      "yI": 34,
+      "zI": 35,
+      "xCm": 213.4,
+      "yCm": 86.4,
+      "zCm": 88.9,
+      "price": "799.99"
+    }
+  ]
+}
